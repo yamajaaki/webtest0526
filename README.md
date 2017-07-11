@@ -9,6 +9,6 @@
 <p>クラスGT2B20　氏名　ヤマザキ</p>
 <p>アフターエフェクトで作りました。</p>
 </body>
-![2 00198](https://user-images.githubusercontent.com/28641937/28049011-73ec79de-662f-11e7-96ef-aadce5e5f12b.png)
-
+<a href="file:///Volumes/media02/gtb16/20/２年生　課題/コンポ 2 (00198).png">コンポ 2 (00198)</a>
 </html>
+
