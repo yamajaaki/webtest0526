@@ -2,7 +2,6 @@
 <html>
 <head>
 <meta charset="utf-8">
-<title>test</title>
 </head>
 自己紹介
  
